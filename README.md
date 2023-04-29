@@ -1,1 +1,1 @@
-# LSTM_GRU_RNN
+# LSTM-GRU-RNN
